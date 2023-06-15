@@ -1,6 +1,9 @@
-# calculator
+# Calculator Using Flutter
 
-A new Flutter project.
+
+![Screenshot_20230615-144357](https://github.com/kamakshi-22/calculator-app/assets/55135926/90e50dae-dd55-4714-b3ef-760c8753fd88)
+
+
 
 ## Getting Started
 
